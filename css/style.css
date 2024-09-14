@@ -1,0 +1,425 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+.home{
+    align-items: center;
+    height: 10vh;
+    display: flex;
+    background-color: white;
+}
+.leader{
+    margin-left: 20px;
+    width: 50%; 
+}
+.lead{
+    font-size: 15px;
+    width: 50%;
+}
+h1{
+    color: rgb(171, 179, 176);
+}
+ul{
+    display: flex;
+
+}
+ul li {
+    padding: 15px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+button{
+    background-color: rgb(12, 11, 11);
+    color: white;
+    height: 40px;
+    width: 20vh;
+    margin-left: 100px;
+}
+h1{
+    margin-left: 20px;
+}
+.from{
+    display: flex;
+    height: 90vh;
+    color: white;
+    background-color: black;
+}
+.from-left{
+
+    width: 45%;
+    background-color: black;
+    
+}
+.forn{
+
+    padding-top: 3vh;
+    margin-left: 20px;
+}
+h2{
+    font-size: 10vh;
+    padding: 20px;
+}
+.size{
+    margin-top: 10px;
+}
+.img{
+    margin-left: 20px;
+}
+img{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+.from-right{
+    padding-top: 70px;
+    width: 80%;
+    background-color: white;
+    color: black;
+    padding-left: 20px;
+    height: 77vh;
+    width: 33%;
+    margin-top: 40px;
+    border-radius: 20px;
+    margin-left: 70px;
+}
+.box{
+    display: flex;
+}
+.first{
+    margin-right: 20px;
+}
+label{
+    margin-right: 20px;
+}
+input[type="First name"]{
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 20px ;
+    border: none;
+}
+.rice{
+    display: flex;
+}
+input[type="Email"]{
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 20px ;
+    border: none;
+    margin-bottom: 30px;
+
+}
+.jump{
+    display: flex;
+}
+.input[type="Company"]{
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 20px ;
+    border: none;
+}
+buttons{
+    padding: 20px;
+    width:30%;
+    border-radius: 20px;
+    background-color: palevioletred;
+}
+/* link */
+aside{
+    margin-top: 100px;
+    height: 80vh;
+}
+.hello h1{
+
+    color: black;
+
+    text-align: center;
+}
+
+.zip{
+    padding-top: 20vh;
+    display: flex;
+}
+.hi p {
+
+    margin-left: 20vh;
+    width: 33.22%;
+}
+.hex h3 {
+    font-size: 15px;
+    color: rgb(34, 27, 27);
+
+    margin-right: 20vh;
+}
+.hit p {
+
+   padding-left: 10vh;
+   margin-right: 20vh;
+}
+.hit h5{
+    margin-left: 15vh;
+}
+.hit h4{
+    margin-left: 15vh;
+}
+.hit img{
+    margin-left: 15vh;
+}
+.hi img{
+    margin-left: 18vh;
+}
+.hi h4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20vh;
+}
+/* link2 */
+.cry{
+    height: 50vh;
+    display: flex;
+}
+.app{
+    margin-left: 15vh;
+
+}
+.app h4 {
+
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.app p{
+    width: 50%;
+    padding-bottom: 20px;
+}
+/* link3 */
+.team{
+    height: 80vh;
+    display: flex;
+}
+.team-left {
+    width: 60%;
+}
+.team-left h1{
+    padding-top: 20px;
+    color: black;
+    margin-left: 20vh;
+    width: 48vh;
+}
+.team-left p{
+    padding-top: 20px;
+    margin-left: 20vh;
+    width: 48vh;
+}
+.button{
+    padding-top: 20px;
+    display: flex;
+}
+.score button{
+    border: none;
+    background-color: brown;
+    padding-right: 30px;
+}
+.point button{
+    border-radius: 20px;
+    color: black;
+    background-color: aliceblue;
+    margin-left: 30px;
+    width: 23vh;
+}
+
+.team-right{
+    width: 20%;
+    margin-right: 70vh;
+}
+.team-right img{
+    
+    width: 50vh;
+    height: 80%;
+    object-fit: cover;
+}
+
+.team-left{
+
+}
+
+/* link4 */
+.phara{
+    height: 90vh;
+}
+.nana{
+    margin-left: 60vh;
+    width: 90vh;
+    text-align: center;
+}
+.mouse{
+    width: 70%;
+    margin-left: 43vh;
+    display: flex;
+    margin-top: 40px;
+} 
+.number h1{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: 200px;
+    height: 90px;
+    color: red;
+    border-radius: 30%;
+    background-color: rgba(226, 233, 193, 0.493);
+}
+.number h3{
+    width: 200px;
+}
+/* link5 */
+h3 {
+    text-align: center;
+    font-size: 28px;
+    color: #474545;
+}
+p {
+    text-align: center;
+    color: #888;
+    font-size: 16px;
+}
+.browse {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+.features p {
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+.food{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.mult {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.user-food ,.warm {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 20px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 45%;
+}
+
+ .user-food img {
+    max-width: 60px;
+    margin-bottom: 20px;
+}
+h4 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+.user-eat{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 20px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 45%;
+}
+.warm p {
+    color: #534f4f;
+    font-size: 14px;
+}
+.user-food p{
+    color: #443d3d;
+    font-size: 14px;
+}
+.user-eat p{
+    color: #746565;
+    font-size: 14px;
+}
+/* link6 */
+.webflow{
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    gap: 1px;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    border-radius: 20px;
+    text-align: center;
+    height: 50%;
+    margin-top: 50px;
+    width: 40%;
+    height: 22%;
+    background-color: white;
+   
+}
+.card h6{
+    font-size: 20px;
+}
+/* link7 */
+.font {
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+
+}
+.market p{
+    color: black;
+    margin-left: 50px;
+
+}
+.head p{
+    color: black;
+    margin-right: 70px;
+}
+.solutions p{
+    color: black;
+}
+.Editors p{
+    color: black;
+}
+.interation p{
+    color: black;
+}
+/* link8 */
+hr{
+    margin-left: 5%;
+    width: 90%;
+    size: 20px;
+    margin-bottom: 10px;
+}
+.langougs{
+    display: flex;
+    justify-content: center;
+}
+/* <!-- link9 --> */
+.ounNana{
+    display: flex;
+    height: 20%;
+    margin-top: 40px;
+}
+.cute-girl{
+    display: flex;
+    margin-left: 40px;
+}
+.alotof-monney{
+    margin-left: 700px;
+}
+
+
+
+
+
